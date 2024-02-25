@@ -1,3 +1,5 @@
+package com.github.kegszool.computational_methods.lab_1;
+
 public class SimpleMethodIteration {
 
     private static final float ACCURACY = 0.001f;
@@ -6,8 +8,8 @@ public class SimpleMethodIteration {
     private static final float INITIAL_APPROXIMATE_Y = 1.08333f;
     private static final float INITIAL_APPROXIMATE_Z = 1.76f;
 
-    public static void main(String[] args) {
-
+    public static void getSolution()
+    {
         int iterationNumber = 0;
 
         float x = INITIAL_APPROXIMATE_X;
