@@ -1,6 +1,6 @@
 package com.github.kegszool.computational_methods.lab_2;
 
-public class NewtonsMethod {
+public class NewtonsMethod_2 {
 
     private static final double ACCURACY = 0.0001; // Точность
     private static final double INITIAL_APPROXIMATE = 1.35; //Начальное приближенное
